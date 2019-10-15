@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Figuren.Figur">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkAAEAAAAJAAAAAABAAAAAAACBACAAAA=</HashCode>
+      <FileName>Figur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figuren.Kreis">
+    <Position X="2.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAEAAAABAAAAAABAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Kreis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figuren.Quadrat">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAEAAAABAAAAAABAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Quadrat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figuren.Rechteck">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAAAAAAAEAAAABAAAAAABAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Rechteck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figuren.RechtwinkligesDreieck">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAAAAAAAEAAAABAAAAAABAAAAAAAAAACAAAA=</HashCode>
+      <FileName>RechtwinkligesDreieck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Figuren.Punkt">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Figur.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Figuren.Figurenfarbe">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAABAAAAA=</HashCode>
+      <FileName>Figur.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
